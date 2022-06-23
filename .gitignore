@@ -1,0 +1,6 @@
+simulator/.idea
+simulator/.vscode
+simulator/.env
+.history/
+nest-api/node_modules
+nest-api//.pnp
